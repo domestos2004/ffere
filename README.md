@@ -1,1 +1,5 @@
 # ffere
+
+---
+permalink: /index.html
+---
