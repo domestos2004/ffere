@@ -1,5 +1,3 @@
-# ffere
-
 ---
 permalink: /index.html
 ---
